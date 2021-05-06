@@ -1,2 +1,5 @@
 # SQL-window-function
-SQL window function
+
+Решение некоторых задач оконными функциями 
+
+
